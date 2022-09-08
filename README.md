@@ -5,8 +5,9 @@
 </p>🌻 Interesses : Gosto bastante de estudar,ler,desenhar e jogar RPG</p>
 <h1></h1>
 💻 Atualmente estou Aprendendo:
+<p>Javascript, MySQL, PHP, HTML, CSS</p>
 <h1></h1>
-![Javascript](https://user-images.githubusercontent.com/108342258/189126617-dec4aab3-0e14-42bb-bfbb-71a72d5018bb.png)
+
 
 
 
