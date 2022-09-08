@@ -6,8 +6,8 @@
 <h1></h1>
 💻 Atualmente estou Aprendendo:
 <h1></h1>
+![Javascript](https://user-images.githubusercontent.com/108342258/189126617-dec4aab3-0e14-42bb-bfbb-71a72d5018bb.png)
 
-![Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas](https://user-images.githubusercontent.com/108342258/189125316-08b4eb6c-69b1-4cc5-8e44-c6cd8230168f.png)
 
 
 <!--
