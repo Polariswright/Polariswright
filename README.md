@@ -7,7 +7,7 @@
 💻 Atualmente estou Aprendendo:
 <h1></h1>
 
-![logo-css-3-2048](https://user-images.githubusercontent.com/108342258/189121990-201ea74e-15e6-4402-b43c-719e85e102d8.png)
+![Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas](https://user-images.githubusercontent.com/108342258/189125316-08b4eb6c-69b1-4cc5-8e44-c6cd8230168f.png)
 
 
 <!--
