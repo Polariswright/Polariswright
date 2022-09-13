@@ -7,6 +7,7 @@
 💻 Atualmente estou Aprendendo:
 <p>Javascript, MySQL, PHP, HTML, CSS</p>
 <h1></h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Polariswright=anuraghazra)
 
 
 
