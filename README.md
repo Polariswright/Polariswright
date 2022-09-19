@@ -1,6 +1,6 @@
 <h1> ✨ Heya! ✨</h1>
 <p>Meu nome é Polaris, tenho 19 anos e sou estudante de TI.</p>
-<p>Almejo ser Full-Stack no futuro e gosto muito especialmente de Front-End e DataBase.</p>
+<p>Almejo ser Full-Stack no futuro e gosto muito especialmente de Front-End e DataBase</p>
 </ul>
 <p>💐Pronomes: Elu/Ele</p>
 </p>🌻 Interesses : Gosto bastante de estudar,ler,desenhar e jogar RPG</p>
