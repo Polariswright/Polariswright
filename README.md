@@ -1,5 +1,5 @@
 <h1> ✨ Heya! ✨</h1>
-<p>Meu nome é Polaris, tenho 19 anos e sou estudante de TI.</p>
+<p>Meu nome é Polaris, tenho 19 anos e sou estudante de TI.
 <p>Almejo ser Full-Stack no futuro e gosto muito especialmente de Front-End e DataBase.</p>
 </ul>
 <p>💐Pronomes: Elu/Ele</p>
