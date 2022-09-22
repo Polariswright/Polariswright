@@ -1,10 +1,12 @@
-<h1> ✨ Heya! ✨</h1>
+<h1 align="start"> ✨ Heya! ✨<div align="start">
+<img height="100em" src="https://i.pinimg.com/564x/f1/86/35/f18635137104377607febb094245d770.jpg"/>
+</div></h1> 
 <p>Meu nome é Polaris, tenho 19 anos e sou estudante de TI.</p>
 <p>Almejo ser Full-Stack no futuro e gosto muito especialmente de Front-End e DataBase.</p>
 </ul>
 <p>💐Pronomes: Elu/Ele</p>
 </p>🌻 Interesses : Gosto bastante de estudar,ler,desenhar e jogar RPG</p>
-<h1></h1>
+
 💻 Atualmente estou Aprendendo:
 <div>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
