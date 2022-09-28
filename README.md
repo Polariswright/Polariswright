@@ -1,7 +1,8 @@
 <h1 align="start"> ✨ Heya! ✨<div align="start">
 <img height="100em" src="https://i.pinimg.com/564x/f1/86/35/f18635137104377607febb094245d770.jpg"/>
+ 
 </div></h1> <div>
-<p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>aaa
+<p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>
    </div>
 <p>Almejo ser Full-Stack no futuro e gosto muito especialmente de Front-End e DataBase.</p>
 </ul>
