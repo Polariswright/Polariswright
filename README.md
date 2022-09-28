@@ -1,6 +1,7 @@
-<h1 align="start"> ✨ Heya! ✨<div align="start">
-<img height="100em" src="https://i.pinimg.com/564x/f1/86/35/f18635137104377607febb094245d770.jpg"/>
- 
+<h1 align="center"> ✨ Heya! ✨<div align="end">
+ <img height="150em" src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"/>
+<img height="150em" src="https://i.pinimg.com/564x/0e/7b/e4/0e7be498f54dc3b33163078e5574a8df.jpg"/>
+
 </div></h1> <div>
 <p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>
    </div>
@@ -12,9 +13,10 @@
 <div>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
