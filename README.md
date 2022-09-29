@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-
 </div>
 <h1></h1>
 <strong ><p align="center">📌 Estatísticas do meu perfil:</p></strong>
