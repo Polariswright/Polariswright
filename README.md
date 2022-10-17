@@ -3,6 +3,9 @@
 <img height="150em" src="https://i.pinimg.com/564x/0e/7b/e4/0e7be498f54dc3b33163078e5574a8df.jpg"/>
 
 </div></h1> <div>
+<div align="center">
+<img height="150em" src="https://i.pinimg.com/564x/bb/d2/fd/bbd2fdcf29d850b7a129547b164fd7ae.jpg"/>
+</div>
 <p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>
    </div>
 <p>Almejo ser Full-Stack no futuro e gosto muito especialmente de Front-End e DataBase.</p>
