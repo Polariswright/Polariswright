@@ -4,7 +4,7 @@
 
 </div></h1> <div>
 <div align="center">
-<img height="150em" src="https://i.pinimg.com/564x/bb/d2/fd/bbd2fdcf29d850b7a129547b164fd7ae.jpg"/>
+
 </div>
 <p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>
    </div>
