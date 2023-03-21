@@ -8,7 +8,7 @@
 </div>
 <p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>
    </div>
-<p>Almejo ser Cientista de Dados no futuro e gosto muito especialmente de Front-End,Dados e Hospedagem de sites.</p>
+<p>Almejo ser Desenvolvedor Mobile no futuro e gosto muito especialmente de Front-End,Dados e Hospedagem de sites.</p>
 </ul>
 </p>🌻 Interesses : Gosto bastante de estudar,ler,desenhar e jogar RPG</p>
 
