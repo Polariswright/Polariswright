@@ -6,9 +6,9 @@
 <div align="center">
 
 </div>
-<p>Oi! Pode me chamar de Polaris, tenho 19 anos e sou estudante de TI.</p>
+<p>Oi! Pode me chamar de Polaris, tenho 20 anos e sou estudante de Analise e Desenvolvimento de Sistemas.</p>
    </div>
-<p>Almejo ser Desenvolvedor Mobile no futuro e gosto muito especialmente de Front-End,Dados e Hospedagem de sites.</p>
+<p>Almejo uma carreira em Desenvolvimento Mobile no futuro e gosto muito especialmente de Front-End e Database./p>
 </ul>
 </p>🌻 Interesses : Gosto bastante de estudar,ler,desenhar e jogar RPG</p>
 
